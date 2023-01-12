@@ -1,10 +1,6 @@
 # Today I Learned
 
-## Markdown
-## Git
-## Github
-
-
+show what you have learned
 
 
 
