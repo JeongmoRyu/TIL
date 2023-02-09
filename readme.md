@@ -8,3 +8,5 @@ show what you have learned
     - [GIT](https://github.com/JeongmoRyu/TIL/blob/main/WhatILearned/GIT.md)
     - [Python_foundamental_point](WhatILearned/python_foundamental_point.md)
     - [OOP_Object_Oriented_Programming](WhatILearned/OOP.md)  
+    
+    
