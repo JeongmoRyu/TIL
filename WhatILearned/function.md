@@ -3,7 +3,6 @@
 - 분해(Decomposition)
 - 추상화(Abstraction)
 
----
 
 ## 종류
 
@@ -51,7 +50,7 @@ x = 'Global N'
 def namespace():
     x= 'Enclosing N'
     def namespace2():
-				x= 'Local N'
+        x= 'Local N'
         print(x)
     namespace2()
 namespace()
