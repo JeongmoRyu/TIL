@@ -3,7 +3,7 @@
 - 분해(Decomposition)
 - 추상화(Abstraction)
 
----
+
 
 ## 종류
 
