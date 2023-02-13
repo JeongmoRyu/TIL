@@ -11,6 +11,6 @@ show what you have learned
     - [OOP_Object_Oriented_Programming](WhatILearned/OOP.md)
     - [Data_structure](WhatILearned/data_structure.md)
     - [Dictionary](WhatILearned/dictionary.md)
-    - [Function]
+    - [Function](WhatILearned/function.md)
     
     
