@@ -1,3 +1,5 @@
+# Function 함수
+
 - 분해(Decomposition)
 - 추상화(Abstraction)
 
