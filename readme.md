@@ -13,5 +13,6 @@ show what you have learned
     - [Dictionary](WhatILearned/dictionary.md)
     - [Function](WhatILearned/function.md)
     - [Algorithm](https://github.com/JeongmoRyu/TIL/blob/main/WhatILearned/algorithm1.md)
+    - [Algorithm2]
     
     
