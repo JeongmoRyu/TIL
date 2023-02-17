@@ -14,6 +14,6 @@ show what you have learned
     - [Function](WhatILearned/function.md)
     - [Algorithm](https://github.com/JeongmoRyu/TIL/blob/main/WhatILearned/algorithm1.md)
     - [Algorithm2](WhatILearned/algorithm2.md)
-    - [Algorithm3]
+    - [Algorithm3](WhatILearned/algorithm3.md)
 
     
