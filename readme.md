@@ -17,3 +17,4 @@ show what you have learned
     - [Algorithm3](WhatILearned/algorithm3.md)
     - [Greedy_Algorithm](WhatILearned/greedy_algorithm.md)
     - [Venv](WhatILearned/venv.md)
+    - [Divide_Conquer](WhatILearned/divide_conquer.md)
