@@ -18,3 +18,4 @@ show what you have learned
     - [Greedy_Algorithm](WhatILearned/greedy_algorithm.md)
     - [Venv](WhatILearned/venv.md)
     - [Divide_Conquer](WhatILearned/divide_conquer.md)
+    - [Stack](WhatILearned/stack.md)
