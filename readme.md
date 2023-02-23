@@ -20,3 +20,4 @@ show what you have learned
     - [Divide_Conquer](WhatILearned/divide_conquer.md)
     - [Stack](WhatILearned/stack.md)
     - [Stack2_recursive_function](WhatILearned/stack2.md)
+    - [Stack3](WhatILearned/stack3.md)
