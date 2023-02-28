@@ -24,4 +24,5 @@ show what you have learned
     - [Queue](WhatILearned/queue.md)
     - [Queue_BFS](WhatILearned/queue_BFS.md)
     - [Tree](WhatILearned/tree.md)
+    - [Tree2_binary_search](WhatILearned/tree2_binary_search.md)
     
