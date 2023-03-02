@@ -27,3 +27,4 @@ show what you have learned
     - [Tree2_binary_search](WhatILearned/tree2_binary_search.md)
     - [Sort](WhatILearned/sort.md)
     - [APS_Complexity](WhatILearned/aps_complexity.md)
+    - [APS_Number](WhatILearned/aps_number.md)
