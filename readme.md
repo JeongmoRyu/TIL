@@ -29,3 +29,4 @@ show what you have learned
     - [APS_Complexity](WhatILearned/aps_complexity.md)
     - [APS_Number](WhatILearned/aps_number.md)
     - [APS_fixed_floating_Num](WhatILearned/aps_fixed_floating_num.md)
+    - [Computer_Thinking](WhatILearned/computer_thinking.md)
