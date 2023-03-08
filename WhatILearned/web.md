@@ -141,7 +141,7 @@ practice
 <body>
   <h1>Jeongmo Ryu</h1>
   
-  <br>Hello!! My Friend!</br>
+  <br>Hello!! My Friend!<br/>
 
   <a href="http://google.com/">Goggle</a>
   <a href="http://naver.com/">Naver</a>
@@ -155,7 +155,7 @@ practice
 </html>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af14bdb1-bc9f-489b-bd1b-ab21c0ced7c1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230307T233911Z&X-Amz-Expires=86400&X-Amz-Signature=48d271093e3eef35a2d96dd364c7b8bda783619b9cb919146510101e7ea3d5bf&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af14bdb1-bc9f-489b-bd1b-ab21c0ced7c1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230308T235021Z&X-Amz-Expires=86400&X-Amz-Signature=cf9d5b11ed6e2ded8c01f4cc4634b5a879848c2c5708ff461aec748be373482d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 ### input
 
@@ -218,4 +218,4 @@ practice
 </html>
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf31efe3-8eca-461c-9b09-bca832d314b0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230307T233838Z&X-Amz-Expires=86400&X-Amz-Signature=4b0a2fd61116325a9c80fe2cf10a6af6367452a218889959fd950c4b6f493bc8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf31efe3-8eca-461c-9b09-bca832d314b0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230308T235039Z&X-Amz-Expires=86400&X-Amz-Signature=048b6a68b9f02f4f4853252ec00098aaa87efec3cb58a84efb83657c12966842&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
