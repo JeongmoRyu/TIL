@@ -185,8 +185,8 @@ color:
 <br/>
 - 학습 가이드라인<br/>
 
-    - MDN web docs<br/>
-        - https://developer.mozilla.org/ko/
+    - MDN web docs  
+        - https://developer.mozilla.org/ko/  
 
-    - 개발자 도구 활용법<br/>
-        - https://developer.chrome.com/docs/devtools/css/
+    - 개발자 도구 활용법  
+        - https://developer.chrome.com/docs/devtools/css/  
