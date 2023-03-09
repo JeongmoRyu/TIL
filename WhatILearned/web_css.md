@@ -183,8 +183,10 @@ color:
             - Event Listeners - 해당 요소에 적용된 이벤트(JS)
         - Sources, Network, Performance, Application, Security, Audits
 <br/>
-- 학습 가이드라인
-    - MDN web docs
+- 학습 가이드라인<br/>
+
+    - MDN web docs<br/>
         - https://developer.mozilla.org/ko/
-    - 개발자 도구 활용법
+
+    - 개발자 도구 활용법<br/>
         - https://developer.chrome.com/docs/devtools/css/
