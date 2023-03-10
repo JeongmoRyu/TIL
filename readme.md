@@ -32,3 +32,4 @@ show what you have learned
     - [Computer_Thinking](WhatILearned/computer_thinking.md)
     - [WEB](WhatILearned/web.md)
     - [WEB_CSS](WhatILearned/web_css.md)
+    - [WEB_Display](WhatILearned/web_display.md)
