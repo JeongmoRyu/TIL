@@ -35,3 +35,4 @@ show what you have learned
     - [WEB_Display](WhatILearned/web_display.md)
     - [WEB_CSS_Position](WhatILearned/web_css_position.md)
     - [WEB_flexbox](WhatILearned/web_flexbox.md)
+    - [WEB_bootstrap](WhatILearned/web_bootstrap.md)
