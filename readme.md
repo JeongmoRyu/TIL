@@ -37,3 +37,4 @@ show what you have learned
     - [WEB_flexbox](WhatILearned/web_flexbox.md)
     - [WEB_bootstrap](WhatILearned/web_bootstrap.md)
     - [Django_framework](WhatILearned/django_framework.md)
+    - [Django_design_pattern](WhatILearned/django_design_pattern.md)
