@@ -38,3 +38,4 @@ show what you have learned
     - [WEB_bootstrap](WhatILearned/web_bootstrap.md)
     - [Django_framework](WhatILearned/django_framework.md)
     - [Django_design_pattern](WhatILearned/django_design_pattern.md)
+    - [Django_form&data](WhatILearned/django_form&data.md)
