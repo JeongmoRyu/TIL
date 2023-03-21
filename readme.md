@@ -39,3 +39,4 @@ show what you have learned
     - [Django_framework](WhatILearned/django_framework.md)
     - [Django_design_pattern](WhatILearned/django_design_pattern.md)
     - [Django_form&data](WhatILearned/django_form&data.md)
+    - [Django_model](WhatILearned/django_model.md)
