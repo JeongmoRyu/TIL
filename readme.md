@@ -41,3 +41,4 @@ show what you have learned
     - [Django_form&data](WhatILearned/django_form&data.md)
     - [Django_model](WhatILearned/django_model.md)
     - [Django_admin](WhatILearned/django_admin.md)
+    - [Django_CRUD](WhatILearned/django_CRUD.md)
