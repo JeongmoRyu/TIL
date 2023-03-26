@@ -43,3 +43,4 @@ show what you have learned
     - [Django_admin](WhatILearned/django_admin.md)
     - [Django_CRUD](WhatILearned/django_CRUD.md)
     - [Django_form](WhatILearned/django_form.md)
+    - [Django_authentication_and_authorization](WhatILearned/django_authentication_and_authorization.md)
