@@ -48,4 +48,6 @@ show what you have learned
     - [Django_authentication_and_authorization2](WhatILearned/django_authentication_and_authorization2.md)
     - [Sort2](WhatILearned/sort2.md)
     - [DB](WhatILearned/DB.md)
+    - [DB_2](WhatILearned/DB_2.md)
+
 
