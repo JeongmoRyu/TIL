@@ -54,6 +54,8 @@ show what you have learned
     - [DB_5](WhatILearned/DB_5.md)
     - [DB_6](WhatILearned/DB_6.md)
     - [HTTP_URI](WhatILearned/HTTP_URI.md)
+    - [Django_REST_api](WhatILearned/Django_REST_api.md)
+
 
 
 
