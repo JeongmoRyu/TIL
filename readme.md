@@ -57,6 +57,8 @@ show what you have learned
     - [Django_REST_api](WhatILearned/Django_REST_api.md)
     - [JavaScript](WhatILearned/javascript.md)
     - [JavaScript_cal](WhatILearned/javascript_cal.md)
+    - [JavaScript_index](WhatILearned/javascript_index.md)
+
 
 
 
