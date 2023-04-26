@@ -59,6 +59,8 @@ show what you have learned
     - [JavaScript_cal](WhatILearned/javascript_cal.md)
     - [JavaScript_index](WhatILearned/javascript_index.md)
     - [JavaScript_DOM](WhatILearned/javaScript_DOM.md)
+    - [JavaScript_event](WhatILearned/javaScript_event.md)
+
 
 
 
