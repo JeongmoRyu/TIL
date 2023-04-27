@@ -60,6 +60,8 @@ show what you have learned
     - [JavaScript_index](WhatILearned/javascript_index.md)
     - [JavaScript_DOM](WhatILearned/javaScript_DOM.md)
     - [JavaScript_event](WhatILearned/javaScript_event.md)
+    - [JavaScript_Asynchronous](WhatILearned/javascript_asynchronous.md)
+
 
 
 
