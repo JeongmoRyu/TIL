@@ -61,6 +61,8 @@ show what you have learned
     - [JavaScript_DOM](WhatILearned/javaScript_DOM.md)
     - [JavaScript_event](WhatILearned/javaScript_event.md)
     - [JavaScript_Asynchronous](WhatILearned/javascript_asynchronous.md)
+    - [JavaScript_AJAX_follow](WhatILearned/javascript_AJAX_follow.md)
+
 
 
 
