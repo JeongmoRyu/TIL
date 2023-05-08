@@ -65,6 +65,8 @@ show what you have learned
     - [JavaScript_AJAX_like](WhatILearned/javascript_AJAX_like.md)
     - [Front-end_Development](WhatILearned/Front-end_Development.md)
     - [Vue](WhatILearned/Vue.md)
+    - [Vue_adv](WhatILearned/Vue_adv.md)
+
 
 
 
