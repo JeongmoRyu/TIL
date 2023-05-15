@@ -69,6 +69,8 @@ show what you have learned
     - [Vue_cli](WhatILearned/Vue_cli.md)
     - [Vue_data_management](WhatILearned/Vue_data_management.md)
     - [Vue_state_management](WhatILearned/Vue_state_management.md)
+    - [Vuex](WhatILearned/Vuex.md)
+
 
 
 
