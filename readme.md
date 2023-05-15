@@ -70,6 +70,8 @@ show what you have learned
     - [Vue_data_management](WhatILearned/Vue_data_management.md)
     - [Vue_state_management](WhatILearned/Vue_state_management.md)
     - [Vuex](WhatILearned/Vuex.md)
+    - [Vue_UX&UI](WhatILearned/Vue_UX&UI.md)
+
 
 
 
