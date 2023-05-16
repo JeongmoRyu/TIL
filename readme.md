@@ -71,6 +71,8 @@ show what you have learned
     - [Vue_state_management](WhatILearned/Vue_state_management.md)
     - [Vuex](WhatILearned/Vuex.md)
     - [Vue_UX&UI](WhatILearned/Vue_UX&UI.md)
+    - [Vue_Router](WhatILearned/Vue_router.md)
+
 
 
 
