@@ -72,6 +72,7 @@ show what you have learned
     - [Vuex](WhatILearned/Vuex.md)
     - [Vue_UX&UI](WhatILearned/Vue_UX&UI.md)
     - [Vue_Router](WhatILearned/Vue_router.md)
+    - [Vue_Navigation_guard](WhatILearned/Vue_Navigation_guard.md)
 
 
 
