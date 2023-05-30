@@ -75,6 +75,7 @@ show what you have learned
     - [Vue_Navigation_guard](WhatILearned/Vue_Navigation_guard.md)
     - [Server&Client](WhatILearned/Server&Client.md)
     - [Vue_DRF](WhatILearned/Vue_DRF.md)
+    - [Authentication&Authorization](WhatILearned/Authentication&Authorization.md)
 
 
 
