@@ -76,6 +76,7 @@ show what you have learned
     - [Server&Client](WhatILearned/Server&Client.md)
     - [Vue_DRF](WhatILearned/Vue_DRF.md)
     - [Authentication&Authorization](WhatILearned/Authentication&Authorization.md)
+    - [Make_json_actor](WhatILearned/make_json_actor.md)
 
 
 
