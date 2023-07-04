@@ -78,6 +78,7 @@ show what you have learned
     - [Authentication&Authorization](WhatILearned/Authentication&Authorization.md)
     - [Make_json_actor](WhatILearned/make_json_actor.md)
     - [Make_movie_youtube](WhatILearned/make_movie_youtube.md)
+    <!-- - [Make_genre](WhatILearned/make_genre.md) -->
 
 
 
