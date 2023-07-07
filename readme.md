@@ -81,6 +81,7 @@ show what you have learned
     - [Make_genre](WhatILearned/make_genre.md)
     - [Make_movie_data](WhatILearned/make_movie_data.md)
     - [Git_issue](WhatILearned/git_issue.md)
+    - [Jira](WhatILearned/Jira.md)
 
 
 
