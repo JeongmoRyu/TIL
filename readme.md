@@ -83,6 +83,7 @@ show what you have learned
     - [Git_issue](WhatILearned/git_issue.md)
     - [Jira](WhatILearned/Jira.md)
     - [PM](WhatILearned/PM.md)
+    - [Kernel](WhatILearned/kernel.md)
 
 
 
