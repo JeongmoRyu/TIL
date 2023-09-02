@@ -90,6 +90,7 @@ show what you have learned
     - [Dart](WhatILearned/Dart.md)
     - [project_UX_UI](WhatILearned/project_UX_UI.md)
     - [Bigdata](WhatILearned/Bigdata.md)
+    - [Mapreduce](WhatILearned/Mapreduce.md)
 
 
 
