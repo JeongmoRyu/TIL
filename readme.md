@@ -91,6 +91,7 @@ show what you have learned
     - [project_UX_UI](WhatILearned/project_UX_UI.md)
     - [Bigdata](WhatILearned/Bigdata.md)
     - [Mapreduce](WhatILearned/Mapreduce.md)
+    - [데이터분산환경설치](WhatILearned/데이터분산환경설치.md)
 
 
 
