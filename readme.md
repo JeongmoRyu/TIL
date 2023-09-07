@@ -92,6 +92,7 @@ show what you have learned
     - [Bigdata](WhatILearned/Bigdata.md)
     - [Mapreduce](WhatILearned/Mapreduce.md)
     - [데이터분산환경설치](WhatILearned/데이터분산환경설치.md)
+    - [datacrowling](WhatILearned/datacrowling.md)
 
 
 
