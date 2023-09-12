@@ -93,6 +93,7 @@ show what you have learned
     - [Mapreduce](WhatILearned/Mapreduce.md)
     - [데이터분산환경설치](WhatILearned/데이터분산환경설치.md)
     - [crowling](WhatILearned/crowling.md)
+    - [python_recursion](WhatILearned/python_recursion.md)
 
 
 
